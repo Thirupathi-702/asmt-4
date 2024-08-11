@@ -11,7 +11,7 @@ import {
   Legend,
 } from 'chart.js';
 import { Line } from 'react-chartjs-2';
-import './App.css'; // Import the CSS file
+import './App.css'; 
 
 // Register the necessary components
 ChartJS.register(
